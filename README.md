@@ -1,4 +1,4 @@
-# Hang Man Game
+# Hang Man Game:
 
 This game is developed using Tkinter. Here user need to guess the word in computer's memory.
 The UI of the game is shown below.
